@@ -6,7 +6,7 @@ My goal was to create a circuit where photo resistor would move MiscroServo arm 
 ---
 
 ## Components
-* Arduino
+* Arduino UNO
 * USB – B Power Cable
 * Breadboard
 * Jumper Cables
