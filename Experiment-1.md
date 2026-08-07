@@ -27,6 +27,63 @@ I also tried to make the movement smooth, but the servo made a fast movement at 
 <br><br/>
 ## Content
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
+  #### Circuit diagram
+  <img src="assets/exp1_circut.png" alt="circuit setup" width="400">
+
+  <br><br>
+
+  #### Connected circuit
+  <img src="assets/exp1_connected-circut.jpg" alt="Connected circuit" width="400">
+
+  <br><br>
+
+  #### Sweep
+  <a href="https://github.com/user-attachments/assets/3bdf08d2-1431-4daa-8c27-2c40b8408827">
+    Watch the demonstration
+  </a>
+
+  <br><br>
+  
+  #### Sweep Random
+  <a href="https://github.com/user-attachments/assets/01401968-56c8-46f7-93d3-6878c626fb1c">
+    Watch the demonstration
+  </a>
+
+  <br><br>
+
+  #### Fixed dealy bug
+  <a href="https://github.com/user-attachments/assets/9c087cde-8415-4b8b-88fc-687bce521d05">
+    Watch the demonstration
+  </a>
+
+  <br><br>
+
+  #### Normal mode
+  <a href="https://github.com/user-attachments/assets/82071e80-3cf3-49bb-8284-25f1c53b4da9">
+    Watch the demonstration
+  </a>
+
+  
+</div>
+
+
 <br><br/>
 ## Technical information
 
