@@ -1,5 +1,3 @@
-***I understand that this submission will be marked as late. I am currently completing the remaining portfolio entries and will upload the final version over the next few days. Please assess the completed portfolio once all materials have been added.***
-
 # Experiments Portfolio
 
 ## Physical Computing
