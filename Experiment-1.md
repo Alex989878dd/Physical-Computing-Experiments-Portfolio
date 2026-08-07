@@ -27,21 +27,6 @@ I also tried to make the movement smooth, but the servo made a fast movement at 
 <br><br/>
 ## Content
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div align="center">
 
   #### Circuit diagram
@@ -75,14 +60,12 @@ I also tried to make the movement smooth, but the servo made a fast movement at 
 
   <br><br>
 
-  #### Normal mode
+ #### Normal mode
   <a href="https://github.com/user-attachments/assets/82071e80-3cf3-49bb-8284-25f1c53b4da9">
     Watch the demonstration
   </a>
 
-  
 </div>
-
 
 <br><br/>
 ## Technical information
